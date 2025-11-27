@@ -30,14 +30,14 @@ Print the characters and its HuffmanCode.
  
 ## Program:
 ```
-Developed By : Krishna Prasad S
-Register No. : 212223230108
+Developed By : Gnanendran N
+Register No. : 212223240037
 ```
 
 ``` Python
 
 # Get the input String
-string = "Krishna Prasad"
+string = "Gnanendran"
 
 
 # Create tree nodes
@@ -95,9 +95,7 @@ for (char, frequency) in freq:
 ## Output:
 
 ### The characters and its huffmancode
-![alt text](output.png)
-
-
+<img width="209" height="168" alt="image" src="https://github.com/user-attachments/assets/683f9ce8-9d26-42b6-bb60-28307c1b0e0a" />
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
